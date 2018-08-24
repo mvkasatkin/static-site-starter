@@ -1,3 +1,7 @@
+.idea
+/tmp
+package-lock.json
+
 # Logs
 logs
 *.log
